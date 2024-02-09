@@ -5,10 +5,7 @@ The Real-Time Chat Application is a modern communication platform that leverages
 ![Demo Image 1](images/Screenshot%202023-12-15%20091752.png)
 
 technologoes used:
-node js
-express js
-react 
-message api
+NODE JS, EXPRESS JS, REACT, MESSAGE API.
 
 Real-Time Chat: Users can engage in instant, real-time conversations with individuals or groups.
 Group Creation: The ability to create and manage groups for collaborative discussions.
