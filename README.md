@@ -12,8 +12,7 @@ Real-Time Chat: Users can engage in instant, real-time conversations with indivi
 Group Creation: The ability to create and manage groups for collaborative discussions.
 File and Photo Sharing: Seamless sharing of files and photos within the chat interface.
 Unique User IDs: Users are assigned unique IDs for secure and personalized login.
-
-![demo](images/Screenshot 2023-12-15 091752.png)
-![demo](images/Screenshot 2023-12-15 092110.png)
+![Demo Image 1](images/Screenshot%202023-12-15%20091752.png)
+![Demo Image 2](images/Screenshot%202023-12-15%20092110.png)
 
 
