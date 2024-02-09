@@ -14,9 +14,6 @@ File and Photo Sharing: Seamless sharing of files and photos within the chat int
 Unique User IDs: Users are assigned unique IDs for secure and personalized login.
 
 ![demo](images/Screenshot 2023-12-15 091752.png)
-![demo]()
-![demo]()
-![demo]()
-![demo]()
-![demo]()
+![demo](images/Screenshot 2023-12-15 092110.png)
+
 
